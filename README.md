@@ -196,6 +196,9 @@ docker run -d \
 ### 部署文档
 - [部署指南](module/deployment.md) - Docker 和 Docker Compose 部署
 
+### 交流频道
+- https://t.me/configflow
+  
 ---
 
 ## 常见问题
