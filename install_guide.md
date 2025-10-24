@@ -65,7 +65,7 @@ docker run -d \
 
 **Q：换电脑或重装系统会丢配置吗？** 不会，`data` 文件夹已经挂载在本地，复制该文件夹即可恢复。
 
-**Q：如何升级？** 执行 `docker stop config-flow && docker rm config-flow`，拉取最新版镜像后按同样命令重新运行，旧数据会自动加载。
+**Q：如何升级？** 执行 `docker stop config-flow && docker rm config-flow`，再拉取最新版镜像后按同样命令重新运行，旧数据会自动加载。
 
 ---
 
