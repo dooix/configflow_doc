@@ -17,6 +17,9 @@
 - 🔄 **灵活的策略组** - 支持多种策略类型和节点来源组合
 - 💾 **配置导入导出** - 完整的配置备份和迁移能力
 
+### 交流频道
+- https://t.me/configflow
+
 ---
 
 <img src="img/img1.png">
@@ -201,10 +204,7 @@ docker run -d \
 
 ### 部署文档
 - [部署指南](module/deployment.md) - Docker 和 Docker Compose 部署
-
-### 交流频道
-- https://t.me/configflow
-  
+- 
 ---
 
 ## 常见问题
