@@ -18,7 +18,7 @@
 - 💾 **配置导入导出** - 完整的配置备份和迁移能力
 
 ### 交流频道
-- [https://t.me/configflow](https://t.me/+fLt02_w38205OTNh)
+- [ConfigFlow交流群](https://t.me/+fLt02_w38205OTNh)
 
 ---
 
